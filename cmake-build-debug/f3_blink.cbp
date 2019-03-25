@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="f3_blink"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\CMake\;CMake Files\CMake\Modules\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ST-FLASH">
+				<Option working_dir="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 ST-FLASH"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="flash">
+				<Option working_dir="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 flash"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="f3_blink.elf">
+				<Option output="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/f3_blink.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D__weak=__attribute__((weak))"/>
+					<Add option="-D__packed=__attribute__((__packed__))"/>
+					<Add option="-DUSE_HAL_DRIVER"/>
+					<Add option="-DSTM32F303xE"/>
+					<Add directory="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Inc"/>
+					<Add directory="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Inc"/>
+					<Add directory="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Inc/Legacy"/>
+					<Add directory="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/CMSIS/Device/ST/STM32F3xx/Include"/>
+					<Add directory="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/CMSIS/Include"/>
+					<Add directory="/usr/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/include/c++/8.2.1"/>
+					<Add directory="/usr/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/include/c++/8.2.1/arm-none-eabi"/>
+					<Add directory="/usr/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/include/c++/8.2.1/backward"/>
+					<Add directory="/usr/bin/../lib/gcc/arm-none-eabi/8.2.1/include"/>
+					<Add directory="/usr/bin/../lib/gcc/arm-none-eabi/8.2.1/include-fixed"/>
+					<Add directory="/usr/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 f3_blink.elf"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="f3_blink.elf/fast">
+				<Option output="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/f3_blink.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D__weak=__attribute__((weak))"/>
+					<Add option="-D__packed=__attribute__((__packed__))"/>
+					<Add option="-DUSE_HAL_DRIVER"/>
+					<Add option="-DSTM32F303xE"/>
+					<Add directory="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Inc"/>
+					<Add directory="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Inc"/>
+					<Add directory="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Inc/Legacy"/>
+					<Add directory="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/CMSIS/Device/ST/STM32F3xx/Include"/>
+					<Add directory="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/CMSIS/Include"/>
+					<Add directory="/usr/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/include/c++/8.2.1"/>
+					<Add directory="/usr/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/include/c++/8.2.1/arm-none-eabi"/>
+					<Add directory="/usr/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/include/c++/8.2.1/backward"/>
+					<Add directory="/usr/bin/../lib/gcc/arm-none-eabi/8.2.1/include"/>
+					<Add directory="/usr/bin/../lib/gcc/arm-none-eabi/8.2.1/include-fixed"/>
+					<Add directory="/usr/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 f3_blink.elf/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UPLOAD">
+				<Option working_dir="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 UPLOAD"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f303xe.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f3xx.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/CMSIS/Device/ST/STM32F3xx/Include/system_stm32f3xx.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/CMSIS/Include/arm_common_tables.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/CMSIS/Include/arm_const_structs.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/CMSIS/Include/arm_math.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/CMSIS/Include/cmsis_armcc.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/CMSIS/Include/cmsis_armcc_V6.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/CMSIS/Include/cmsis_gcc.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/CMSIS/Include/core_cm0.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/CMSIS/Include/core_cm0plus.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/CMSIS/Include/core_cm3.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/CMSIS/Include/core_cm4.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/CMSIS/Include/core_cm7.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/CMSIS/Include/core_cmFunc.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/CMSIS/Include/core_cmInstr.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/CMSIS/Include/core_cmSimd.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/CMSIS/Include/core_sc000.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/CMSIS/Include/core_sc300.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_cortex.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_def.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_dma.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_dma_ex.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_flash.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_flash_ex.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_gpio.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_gpio_ex.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_i2c.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_i2c_ex.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_pwr.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_pwr_ex.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_rcc.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_rcc_ex.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_tim.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_tim_ex.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_uart.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_uart_ex.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal.c">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_cortex.c">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_dma.c">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_flash.c">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_flash_ex.c">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_gpio.c">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_i2c.c">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_i2c_ex.c">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_pwr.c">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_pwr_ex.c">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_rcc.c">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_rcc_ex.c">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_tim.c">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_tim_ex.c">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_uart.c">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_uart_ex.c">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Inc/main.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Inc/stm32f3xx_hal_conf.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Inc/stm32f3xx_it.h">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/STM32F303RETx_FLASH.ld">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Src/.idea/Src.iml">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Src/.idea/encodings.xml">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Src/.idea/misc.xml">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Src/.idea/modules.xml">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Src/.idea/workspace.xml">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Src/main.c">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Src/stm32f3xx_hal_msp.c">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Src/stm32f3xx_it.c">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Src/syscalls.c">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/Src/system_stm32f3xx.c">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/startup/startup_stm32f303xe.s">
+			<Option target="f3_blink.elf"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/CMake/Modules/FindOpenocd.cmake">
+			<Option virtualFolder="CMake Files\CMake\Modules\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,6 @@
+/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/CMakeFiles/ST-FLASH.dir
+/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/CMakeFiles/flash.dir
+/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/CMakeFiles/f3_blink.elf.dir
+/home/toshi/CLionProjects/nucleo_f303re_v4/f3_blink/cmake-build-debug/CMakeFiles/UPLOAD.dir
